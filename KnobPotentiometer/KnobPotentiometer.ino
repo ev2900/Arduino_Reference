@@ -1,7 +1,11 @@
 int pin = 0;
 int potentiometer_value = 0;
 
-void setup() {}
+void setup() {
+    
+  Serial.begin(9600);
+  
+}
 
 void loop() {
 

@@ -4,6 +4,7 @@ int button_state = 0;
 void setup() {
  
   pinMode(button_pin, INPUT);
+  Serial.begin(9600);
   
 }
 
