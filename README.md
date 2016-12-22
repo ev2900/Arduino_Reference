@@ -6,4 +6,4 @@ Having this code should be helpful to students enrolled in the course.
 
 Additionally information is avalible on the class wiki:
 
-http://ev2900.github.io/Arduino_Reference/
+https://sites.google.com/site/pennstateist402/home
